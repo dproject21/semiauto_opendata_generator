@@ -1,0 +1,4 @@
+.DS_Store
+ruby_turnip/vendor/bundle
+*.iml
+ruby_turnip/.idea
